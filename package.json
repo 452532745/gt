@@ -1,7 +1,7 @@
 {
-  "name": "goth",
+  "name": "gt",
   "version": "1.0.0",
-  "description": "A company website of GOTH",
+  "description": "官网",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot --port 8080",
@@ -29,6 +29,6 @@
     "vue-router": "^2.5.2",
     "vuex": "^2.3.1"
   },
-  "author": "xiaoD",
+  "author": "452532745@qq.com",
   "license": "ISC"
 }
